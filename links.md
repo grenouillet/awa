@@ -35,6 +35,7 @@ queue (non visionnées):
 Blender:
 
 - https://www.youtube.com/watch?v=5Ou4zNJdZWE (presentation 4.2)
+- https://www.youtube.com/watch?v=XxaVFetBivs&t=29s (Autobuilding tutorial)
 
 
 -----
