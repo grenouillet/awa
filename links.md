@@ -1,5 +1,5 @@
 cette liste est amenée à évoluer
-# demonstrations process CA Youtube (avec et sans comentary):
+# demonstrations process CA (avec et sans comentary):
 
 visionnées (veille comprise):
 
@@ -32,15 +32,15 @@ queue (non visionnées):
 
 -----
 
-Blender:
+# Blender:
 
-- https://www.youtube.com/watch?v=5Ou4zNJdZWE (presentation 4.2)
+- https://www.youtube.com/watch?v=5Ou4zNJdZWE (presentation v4.2)
 - https://www.youtube.com/watch?v=XxaVFetBivs&t=29s (Autobuilding tutorial)
 
 
 -----
 
-autres:
+# Autres:
 
 - https://www.youtube.com/watch?v=F1w6qMU7lNo (pres 3D coat, à voir..!)
 
