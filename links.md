@@ -38,6 +38,7 @@ queue (non visionnées):
 - https://www.youtube.com/watch?v=XxaVFetBivs&t=29s (Autobuilding tutorial)
 - https://www.youtube.com/@ALKSNDR (page qui regroupe des tutos sur QuickTools)
 - https://www.youtube.com/watch?v=cUWIwkJ5cbc (tips modeling)
+- https://www.youtube.com/watch?v=iFQokXmqmVQ (quick scene with scatter)
 
 
 -----
