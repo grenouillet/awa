@@ -1,7 +1,7 @@
 cette liste est amenée à évoluer
 # demonstrations process CA (avec et sans comentary):
 
-visionnées (veille comprise):
+visionnées :
 
 - https://www.youtube.com/watch?v=4qZWNPoc9EM&list=LL&index=4
 - https://www.youtube.com/watch?v=4BY8abvEPUo
