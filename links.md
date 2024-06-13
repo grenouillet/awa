@@ -15,6 +15,7 @@ visionnées :
 - https://www.youtube.com/watch?v=sT2OY2jy_Xc
 - https://www.youtube.com/watch?v=PHufiCWVoVo
 - https://www.youtube.com/watch?v=e8OPmP75HJU&list=PLVbXgFokKXshtSo_fbNSEE3MKhrGVNp4J (playlist timelapse jordan grimmer)
+- https://www.youtube.com/watch?v=ZAAZVmQ5ODw (zbrush - quixel - blender - ps | asset & envoronement)
 
 queue (non visionnées):
 
