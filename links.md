@@ -14,7 +14,7 @@ visionnées (veille comprise):
 - https://www.youtube.com/watch?v=im2FD9iUr_M (cool helmet bash & relief)
 - https://www.youtube.com/watch?v=sT2OY2jy_Xc
 - https://www.youtube.com/watch?v=PHufiCWVoVo
-- https://www.youtube.com/watch?v=e8OPmP75HJU&list=PLVbXgFokKXshtSo_fbNSEE3MKhrGVNp4J (playlist tutos jordan grimmer)
+- https://www.youtube.com/watch?v=e8OPmP75HJU&list=PLVbXgFokKXshtSo_fbNSEE3MKhrGVNp4J (playlist timelapse jordan grimmer)
 
 queue (non visionnées):
 
