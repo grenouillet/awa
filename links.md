@@ -39,6 +39,8 @@ queue (non visionnées):
 - https://www.youtube.com/@ALKSNDR (page qui regroupe des tutos sur QuickTools)
 - https://www.youtube.com/watch?v=cUWIwkJ5cbc (tips modeling)
 - https://www.youtube.com/watch?v=iFQokXmqmVQ (quick scene with scatter)
+- https://www.youtube.com/watch?v=QNr7lwhW0h4 (HDRI settup)
+- https://www.youtube.com/watch?v=rrZiSwXoBVA (HDRI to Environement mapping & texturing - room)
 
 
 -----
