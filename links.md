@@ -67,11 +67,11 @@ queue (non visionnées):
 
 pdvs et relativisme sur l'IA générative:
 
-- https://www.youtube.com/watch?v=tjSxFAGP9Ss (il est pas content)
-- https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (deconstruction de "l'IA")
 - https://www.youtube.com/watch?v=lR5O9xeGXgA&t=15s (pdv d'artiste)
 - https://www.youtube.com/watch?v=ha4QMMi5xWs (pdv d'artiste)
 - https://www.youtube.com/watch?v=bKLE742LjqE (pdv d'artiste)
+- https://www.youtube.com/watch?v=tjSxFAGP9Ss
+- https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (deconstruction de "l'IA")
 
 - outils de détection et de protection contre le scrapping:
 - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://people.cs.uchicago.edu/~ravenben/publications/pdf/glaze-usenix23.pdf
