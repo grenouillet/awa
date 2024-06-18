@@ -53,7 +53,7 @@ queue (non visionnées):
 -----
 -----
 
-(appréhension de l'explosion des IAs générative par rapport à l'humain, l'artiste, le rapport à l'art...):
+pdvs et critiques sur l'IA générative:
 
 - https://www.youtube.com/watch?v=tjSxFAGP9Ss (! négativiste)
 - https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (deconstruction de "l'IA")
