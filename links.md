@@ -53,7 +53,7 @@ queue (non visionnées):
 -----
 -----
 
-pdvs et critiques sur l'IA générative:
+pdvs et relativisme sur l'IA générative:
 
 - https://www.youtube.com/watch?v=tjSxFAGP9Ss (! négativiste)
 - https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (deconstruction de "l'IA")
