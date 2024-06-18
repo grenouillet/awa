@@ -47,6 +47,7 @@ queue (non visionnées):
 
 - https://www.youtube.com/watch?v=ZbLogSN8Euc (Blender)
 - https://www.youtube.com/watch?v=bHWvVtuLJkM (Blender)
+- https://www.youtube.com/watch?v=eIZ97sP6xAg (Blender)
 
 
 -----
