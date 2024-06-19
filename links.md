@@ -76,5 +76,5 @@ pdvs et relativisme sur l'IA générative:
 
 - outils de détection et de protection contre le scrapping:
 - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://people.cs.uchicago.edu/~ravenben/publications/pdf/glaze-usenix23.pdf
-- https://isitai.com/ai-image-detector/
+- https://isitai.com/ai-image-detector/ (06/24 : le plus fiable)
 - https://quillbot.com/ai-content-detector
