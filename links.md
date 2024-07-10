@@ -55,7 +55,7 @@ queue (non visionnées):
 - https://www.youtube.com/watch?v=0Qv3xqcsQ94 (animer séquence d'image sur unreal engine - depuis frames dans un dossier)
 - https://www.youtube.com/watch?v=5GYqpuSXR40 (animer séquence d'image sur unreal engine - depuis vidéo h.264)
 
-- https://www.youtube.com/watch?v=d-R9pDAivxE / https://renderstuff.com/tutorials/panorama-360-in-3ds-max-and-v-ray-tutorial-133 (360 rendering vray)
+- https://www.youtube.com/watch?v=d-R9pDAivxE / https://renderstuff.com/tutorials/panorama-360-in-3ds-max-and-v-ray-tutorial-133 (360/equirectangular rendering vray)
 - https://www.youtube.com/watch?v=TqFiXYzF-Wc (phtoshop panoramic painting)
 
 - https://www.youtube.com/watch?v=lkXuvkkOfWg (solution blender & steamVR)
