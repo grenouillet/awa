@@ -49,23 +49,22 @@ queue (non visionnées):
 - https://www.youtube.com/watch?v=bHWvVtuLJkM (Blender)
 - https://www.youtube.com/watch?v=eIZ97sP6xAg (Blender)
 
+#visualisation VR
+
+- https://www.youtube.com/watch?v=wqjJU4V6bGM (solution temps réel avec unreal engine 5)
 
 -----
-
-
-
-
 
 
 
 # Autres:
 
-- https://www.youtube.com/watch?v=F1w6qMU7lNo (pres 3D coat, à voir..!)
+- https://www.youtube.com/watch?v=F1w6qMU7lNo (pres 3D coat, puissant..)
 
 -----
 -----
 
-pdvs et relativisme sur l'IA générative:
+reflexions sur l'IA générative:
 
 - https://www.youtube.com/watch?v=lR5O9xeGXgA&t=15s (pdv d'artiste)
 - https://www.youtube.com/watch?v=ha4QMMi5xWs (pdv d'artiste)
