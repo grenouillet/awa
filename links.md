@@ -61,7 +61,7 @@ queue (non visionnées):
 - https://www.youtube.com/watch?v=lkXuvkkOfWg (solution blender & steamVR)
 - https://www.youtube.com/watch?v=ZrXAEsYiIyE (metaquest headset x blender)
 
-- onile panorame previewer: https://renderstuff.com/tools/360-panorama-web-viewer/
+- online panorame previewer: https://renderstuff.com/tools/360-panorama-web-viewer/
 
 -----
 
