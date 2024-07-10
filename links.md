@@ -49,7 +49,7 @@ queue (non visionnées):
 - https://www.youtube.com/watch?v=bHWvVtuLJkM (Blender)
 - https://www.youtube.com/watch?v=eIZ97sP6xAg (Blender)
 
-#visualisation VR
+# visualisation VR
 
 - https://www.youtube.com/watch?v=wqjJU4V6bGM (solution temps réel avec unreal engine 5)
 - https://www.youtube.com/watch?v=0Qv3xqcsQ94 (animer séquence d'image sur unreal engine - depuis frames dans un dossier)
@@ -59,6 +59,7 @@ queue (non visionnées):
 - https://www.youtube.com/watch?v=TqFiXYzF-Wc (phtoshop panoramic painting)
 
 - https://www.youtube.com/watch?v=lkXuvkkOfWg (solution blender & steamVR)
+- https://www.youtube.com/watch?v=ZrXAEsYiIyE (metaquest headset x blender)
 
 -----
 
