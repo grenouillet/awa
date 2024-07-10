@@ -52,6 +52,10 @@ queue (non visionnées):
 #visualisation VR
 
 - https://www.youtube.com/watch?v=wqjJU4V6bGM (solution temps réel avec unreal engine 5)
+- https://www.youtube.com/watch?v=0Qv3xqcsQ94 (animer séquence d'image sur unreal engine)
+
+- https://www.youtube.com/watch?v=d-R9pDAivxE (360 rendering vray)
+- https://www.youtube.com/watch?v=TqFiXYzF-Wc (phtoshop panoramic painting)
 
 -----
 
