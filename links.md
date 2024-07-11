@@ -64,6 +64,7 @@ queue (non visionnées):
 - turn phone into a vr headset: https://www.youtube.com/watch?v=_-ZtVvbgxlU
 
 - online panorama previewer: https://renderstuff.com/tools/360-panorama-web-viewer/
+- https://www.youtube.com/watch?v=1qkldqKMvuM (VR solution image/videos in blender)
 
 -----
 
