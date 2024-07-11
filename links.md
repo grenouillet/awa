@@ -61,9 +61,9 @@ queue (non visionnées):
 - https://www.youtube.com/watch?v=lkXuvkkOfWg (solution blender & steamVR)
 - https://www.youtube.com/watch?v=ZrXAEsYiIyE (metaquest headset x blender)
 
-- trun phone into a vr headset: https://www.youtube.com/watch?v=_-ZtVvbgxlU
+- turn phone into a vr headset: https://www.youtube.com/watch?v=_-ZtVvbgxlU
 
-- online panorame previewer: https://renderstuff.com/tools/360-panorama-web-viewer/
+- online panorama previewer: https://renderstuff.com/tools/360-panorama-web-viewer/
 
 -----
 
