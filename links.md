@@ -84,7 +84,7 @@ reflexions sur l'IA générative:
 - https://www.youtube.com/watch?v=tjSxFAGP9Ss
 - https://www.youtube.com/watch?v=-MUEXGaxFDA&t=4059s (deconstruction de "l'IA")
 - https://www.youtube.com/watch?v=SVcsDDABEkM (ai art explained)
-- https://www.youtube.com/watch?v=EcYcIAaTeRA (parallele avec la psycologie des foules)
+- https://www.youtube.com/watch?v=EcYcIAaTeRA (// psycologie des foules)
 
 outils de détection et de protection contre le scrapping:
 - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://people.cs.uchicago.edu/~ravenben/publications/pdf/glaze-usenix23.pdf
