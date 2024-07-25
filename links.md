@@ -58,6 +58,7 @@ queue (non visionnées):
 # Mode VR
 
 - https://www.youtube.com/watch?v=H8xoL62Q1zQ (Gravity sketch to Blender)
+- https://www.youtube.com/watch?v=2YZr3yqWXzk (Big landscape w Gravity sketch)
 
 - https://www.youtube.com/watch?v=d-R9pDAivxE / https://renderstuff.com/tutorials/panorama-360-in-3ds-max-and-v-ray-tutorial-133 (360/equirectangular rendering vray)
 - https://www.youtube.com/watch?v=TqFiXYzF-Wc (phtoshop panoramic painting)
