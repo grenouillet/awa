@@ -42,6 +42,8 @@ queue (non visionnées):
 - https://www.youtube.com/watch?v=iFQokXmqmVQ (quick scene with scatter)
 - https://www.youtube.com/watch?v=QNr7lwhW0h4 (HDRI settup)
 - https://www.youtube.com/watch?v=rrZiSwXoBVA (HDRI to Environement mapping & texturing - room)
+- https://github.com/sketchfab/blender-plugin/releases/tag/1.6.0 (sketchfab addon)
+                 -> https://www.youtube.com/watch?v=jemIFx6nkO0 (bug correctif)
 
 # Fractal 
 
